@@ -1,0 +1,85 @@
+Part No. Breakdown
+N### = FPS identification number?
+     * N612 is used on board stiffener
+     * N412 is used on silkscreen
+4### = Board series number
+     * All boards are either 42##, 43##, 44##, or 48##
+###L = Revision number
+     * Some boards have just a number, some have the extra letter
+
+There are two different card edge connectors depending on the board
+2x 100-pin = 200-pin with 0.125" pitch
+2x 120-pin = 240-pin with 0.100" pitch
+
+For clarity, only the Board Series Number will be listed below
+
+
+Series    Name           Function
+2221      AP/VAX I/F     Vax 11-780 Interface
+2266      TM             ROM & RAM
+
+Series    Name           Function
+4200      DATA PAD       Data Pad Left and Right
+4201      S PAD          Scratch Pad
+4202      MDREG          Main Data Register
+4203      FADD 1         Floating Adder 1
+4204      FADD 2         Floating Adder 2
+4205      FADD 3         Floating Adder 3
+4206      FMUL A         Floating Multiplier A
+4207      FMUL B         Floating Multiplier B
+4208      FMUL C         Floating Multiplier C
+4209      TMREG          Table Memory Register
+4210      CB1            Control Buffer 1
+4211      CB2            Control Buffer 2
+4212      ADDR           Address
+4213      MIREG          Memory Input Register
+4214      EXPAN          Expansion of CB1
+4217      TM ROM
+4219      GP+NOVA I/F    General Purpose Interface
+4226      FMT M          Format Mantissa
+4227      FMT E          Format Exponent
+4236      PS RAM 2K      Program Source RAM
+4238      TM RAM         Table Memory RAM
+4244      MAIN DATA      Data in from Host and to Host
+4246      ???            ???
+4274      PASPAR         ??
+4275      IRP 1
+4276      IRP 2
+
+Series    Name           Function
+4324      CPROC CTRLR
+4329      FIFO/FPROC/CTRL
+4330      FIFO
+4353      ???            ???
+4354      ???            ???
+4377      ???            ???
+
+Series    Name           Function
+4401      FA             Floating Adder
+4402      DATA PAD       Data Pad
+4408      P3             Processor 3
+4421      PDP 11 I/F     PDP 11 Interface
+4422      P1 (4K)        Processor 1
+4423      P2 (4K)        Processor 2
+4424      MD             Main Data Memory (Data in from and to Host)
+4425      TM             Table Memory
+4426      FM             Floating Multiplier
+4429      FMT            Formatter
+4446      CUSTOM FMT     Custom Formatter
+4447      CIO            
+4448      AP I/F         Arithmetic Processor Interface
+4456      MD             Main Data / Memory
+4477      BIRP I/F
+4481      MD PORT
+4482      PIXEL MEM
+4496      ??             ??
+4497      ??             ??
+4498      MEM CTL        Memory Control
+
+Series    Name           Function
+4801      ??             ??
+4803      VBUS XLTR      VersaBus translator?
+4804      UNIV FMT       Universal Formatter
+4805      XP32 EXEC      XP32 Processor
+4806      XP32 ARITH     XP32 Processor
+4808      VBUS SBC       VersaBus controller?
