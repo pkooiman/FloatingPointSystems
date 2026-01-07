@@ -16384,7 +16384,7 @@
 			)
 		)
 	)
-	(global_label "FAUNFL*"
+	(global_label "FAUNF*"
 		(shape input)
 		(at 99.06 97.79 0)
 		(fields_autoplaced yes)
@@ -16396,7 +16396,7 @@
 		)
 		(uuid "282cb26c-a0bd-4132-9581-86b504dd224d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.9677 97.79 0)
+			(at 108.9396 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29960,7 +29960,7 @@
 	)
 	(global_label "DE07*"
 		(shape input)
-		(at 86.36 107.95 180)
+		(at 86.36 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29970,7 +29970,7 @@
 		)
 		(uuid "63882501-e26a-4b7d-9c92-408eb32ea8b5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.5692 107.95 0)
+			(at 77.5692 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33478,7 +33478,7 @@
 			)
 		)
 	)
-	(global_label "FAZERO*"
+	(global_label "FAZRO*"
 		(shape input)
 		(at 643.89 80.01 0)
 		(fields_autoplaced yes)
@@ -33490,7 +33490,7 @@
 		)
 		(uuid "73f45aa7-02cb-44d3-a4a4-404c61ad9344")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 654.979 80.01 0)
+			(at 653.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33632,7 +33632,7 @@
 			)
 		)
 	)
-	(global_label "FAOVFL*"
+	(global_label "FAOVF*"
 		(shape input)
 		(at 99.06 100.33 0)
 		(fields_autoplaced yes)
@@ -33644,7 +33644,7 @@
 		)
 		(uuid "74f67659-0f21-41ff-94cc-0b6440485405")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.7258 100.33 0)
+			(at 108.6977 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41587,6 +41587,28 @@
 		(uuid "9ac220f2-27e4-4ad4-ba19-d263a9f86f13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 929.8432 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FRCINH*"
+		(shape input)
+		(at 99.06 346.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9ac8db21-4609-46a5-ae99-b081bc70a29a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.9072 346.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57194,7 +57216,7 @@
 			)
 		)
 	)
-	(global_label "SCN"
+	(global_label "SCIN"
 		(shape input)
 		(at 86.36 102.87 180)
 		(fields_autoplaced yes)
@@ -57206,7 +57228,7 @@
 		)
 		(uuid "e88e627f-cac0-41da-b139-d880ceb3b4f7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.5648 102.87 0)
+			(at 78.96 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
