@@ -1,10 +1,19 @@
 Orphaned Nets
 --------------------------------------------------------------------------------
 4402_Data_Pad_Right
-    A006: !WRTR*
+
+
+4402_Data_Pad_Left
+    A021: FAE00*
+    A022: FME00*
+    A023: FAE01*
+    A024: FME01*
 
 4408_Processor_3
     A009: !WRTR
+    A012: !M1CLK
+    A020: !IOCLK
+    B100: EXTNT
     B113: INTCP
     B115: EXTCLK{408}
 
@@ -16,8 +25,17 @@ Orphaned Nets
 
 4424_Main_Data
     A010: MDEXP
+    A012: MDHMAN
+    A014: MDLMAN
+    A017: MDCR2*
+    A019: MDCA0
+    A022: DMAESA
 
 4425_Table_Memory
+    A014: BTMA00
+    A016: BTMA01
+    A018: BTMA02
+    A020: BTMA03
     B098: MIMBS22*
     B100: MIMBS23*
     B102: MIMBS24*
@@ -35,6 +53,7 @@ Orphaned Nets
 
 4426_Floating_Multiplier
     A005: !MICLK
+    A013: CTCLK
 
 4429_Formatter
     A007: RPDP

@@ -10972,7 +10972,7 @@
 			)
 		)
 	)
-	(global_label "IHRSET*"
+	(global_label "!HRSET*"
 		(shape input)
 		(at 707.39 92.71 180)
 		(fields_autoplaced yes)
@@ -11830,7 +11830,7 @@
 			)
 		)
 	)
-	(global_label "B2ID"
+	(global_label "B2IO"
 		(shape input)
 		(at 990.6 113.03 0)
 		(fields_autoplaced yes)
@@ -11842,7 +11842,7 @@
 		)
 		(uuid "12f4a47e-1bec-443a-aedb-ed90fba1b265")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 997.9395 113.03 0)
+			(at 998 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24322,6 +24322,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "!HRSET*"
+		(shape input)
+		(at 990.6 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4b9d8420-7bab-4be1-99be-383625832c13")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 1001.0842 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -39814,7 +39836,7 @@
 			)
 		)
 	)
-	(global_label "375LD*"
+	(global_label "376LD*"
 		(shape input)
 		(at 631.19 189.23 180)
 		(fields_autoplaced yes)
@@ -40386,7 +40408,7 @@
 			)
 		)
 	)
-	(global_label "DPMBS24*"
+	(global_label "DPMBS23*"
 		(shape input)
 		(at 172.72 290.83 0)
 		(fields_autoplaced yes)
@@ -52244,7 +52266,7 @@
 			)
 		)
 	)
-	(global_label "!WRTR"
+	(global_label "!WRTR*"
 		(shape input)
 		(at 707.39 72.39 180)
 		(fields_autoplaced yes)
@@ -52256,7 +52278,7 @@
 		)
 		(uuid "ce7e72a0-b6f4-4789-831e-1c9958dbe041")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 698.841 72.39 0)
+			(at 697.8734 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
