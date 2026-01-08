@@ -24328,7 +24328,7 @@
 	)
 	(global_label "!HRSET*"
 		(shape input)
-		(at 990.6 125.73 0)
+		(at 990.6 309.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24338,7 +24338,7 @@
 		)
 		(uuid "4b9d8420-7bab-4be1-99be-383625832c13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 1001.0842 125.73 0)
+			(at 1001.0842 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49133,28 +49133,6 @@
 		(uuid "be1f0eba-1111-4da5-ba76-17a7d73ef4ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 999.3304 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "!HRSET"
-		(shape input)
-		(at 990.6 309.88 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "be25593c-222c-431a-8737-b0219ec32110")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 1000.1166 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
