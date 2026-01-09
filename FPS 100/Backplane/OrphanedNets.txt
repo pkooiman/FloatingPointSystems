@@ -11,15 +11,12 @@ Orphaned Nets
 
 4408_Processor_3
     A009: !WRTR
-    A012: !M1CLK
     A020: !IOCLK
     B100: EXTNT
-    B113: INTCP
     B115: EXTCLK{408}
 
 4422_Processor_1
     A009: FAOVF*
-    B110: NOP*
     B115: IOINTR*
     B116: RBUEQ*
 
@@ -52,7 +49,6 @@ Orphaned Nets
     B116: TM39*
 
 4426_Floating_Multiplier
-    A005: !MICLK
     A013: CTCLK
 
 4429_Formatter
