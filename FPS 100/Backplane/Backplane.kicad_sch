@@ -8376,7 +8376,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS12*"
+	(global_label "M1MBS12*"
 		(shape input)
 		(at 481.33 262.89 0)
 		(fields_autoplaced yes)
@@ -8552,7 +8552,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS01*"
+	(global_label "M1MBS01*"
 		(shape input)
 		(at 481.33 196.85 0)
 		(fields_autoplaced yes)
@@ -9982,7 +9982,7 @@
 			)
 		)
 	)
-	(global_label "PLN06*"
+	(global_label "PNL06*"
 		(shape input)
 		(at 549.91 118.11 180)
 		(fields_autoplaced yes)
@@ -10092,7 +10092,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS09*"
+	(global_label "M1MBS09*"
 		(shape input)
 		(at 481.33 255.27 0)
 		(fields_autoplaced yes)
@@ -10114,7 +10114,7 @@
 			)
 		)
 	)
-	(global_label "PLN12*"
+	(global_label "PNL12*"
 		(shape input)
 		(at 549.91 146.05 180)
 		(fields_autoplaced yes)
@@ -10378,7 +10378,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS07*"
+	(global_label "M1EBS07*"
 		(shape input)
 		(at 481.33 163.83 0)
 		(fields_autoplaced yes)
@@ -11060,7 +11060,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS24*"
+	(global_label "M1MBS24*"
 		(shape input)
 		(at 481.33 349.25 0)
 		(fields_autoplaced yes)
@@ -11170,7 +11170,7 @@
 			)
 		)
 	)
-	(global_label "PLN00*"
+	(global_label "PNL00*"
 		(shape input)
 		(at 549.91 110.49 180)
 		(fields_autoplaced yes)
@@ -16582,7 +16582,7 @@
 			)
 		)
 	)
-	(global_label "DAM01*"
+	(global_label "DMA01*"
 		(shape input)
 		(at 990.6 140.97 0)
 		(fields_autoplaced yes)
@@ -17242,7 +17242,7 @@
 			)
 		)
 	)
-	(global_label "PLN04*"
+	(global_label "PNL04*"
 		(shape input)
 		(at 549.91 115.57 180)
 		(fields_autoplaced yes)
@@ -18672,7 +18672,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS08*"
+	(global_label "M1MBS08*"
 		(shape input)
 		(at 481.33 252.73 0)
 		(fields_autoplaced yes)
@@ -20300,7 +20300,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS21*"
+	(global_label "M1MBS21*"
 		(shape input)
 		(at 481.33 308.61 0)
 		(fields_autoplaced yes)
@@ -21444,7 +21444,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS11*"
+	(global_label "M1EBS11*"
 		(shape input)
 		(at 481.33 191.77 0)
 		(fields_autoplaced yes)
@@ -21928,7 +21928,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS06*"
+	(global_label "M1EBS06*"
 		(shape input)
 		(at 481.33 161.29 0)
 		(fields_autoplaced yes)
@@ -22192,7 +22192,7 @@
 			)
 		)
 	)
-	(global_label "PLN01*"
+	(global_label "PNL01*"
 		(shape input)
 		(at 562.61 110.49 0)
 		(fields_autoplaced yes)
@@ -23842,7 +23842,7 @@
 			)
 		)
 	)
-	(global_label "PLN03*"
+	(global_label "PNL03*"
 		(shape input)
 		(at 562.61 113.03 0)
 		(fields_autoplaced yes)
@@ -24194,7 +24194,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS06*"
+	(global_label "M1MBS06*"
 		(shape input)
 		(at 481.33 247.65 0)
 		(fields_autoplaced yes)
@@ -24370,7 +24370,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS23*"
+	(global_label "M1MBS23*"
 		(shape input)
 		(at 481.33 346.71 0)
 		(fields_autoplaced yes)
@@ -27802,7 +27802,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS03*"
+	(global_label "M1MBS03*"
 		(shape input)
 		(at 481.33 201.93 0)
 		(fields_autoplaced yes)
@@ -28858,7 +28858,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS02*"
+	(global_label "M1EBS02*"
 		(shape input)
 		(at 481.33 151.13 0)
 		(fields_autoplaced yes)
@@ -28924,7 +28924,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS11*"
+	(global_label "M1MBS11*"
 		(shape input)
 		(at 481.33 260.35 0)
 		(fields_autoplaced yes)
@@ -29232,7 +29232,7 @@
 			)
 		)
 	)
-	(global_label "PLN05*"
+	(global_label "PNL05*"
 		(shape input)
 		(at 562.61 115.57 0)
 		(fields_autoplaced yes)
@@ -30024,7 +30024,7 @@
 			)
 		)
 	)
-	(global_label "PLN11*"
+	(global_label "PNL11*"
 		(shape input)
 		(at 562.61 143.51 0)
 		(fields_autoplaced yes)
@@ -30992,7 +30992,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS08*"
+	(global_label "M1EBS08*"
 		(shape input)
 		(at 481.33 166.37 0)
 		(fields_autoplaced yes)
@@ -32334,7 +32334,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS14*"
+	(global_label "M1MBS14*"
 		(shape input)
 		(at 481.33 290.83 0)
 		(fields_autoplaced yes)
@@ -32862,7 +32862,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS19*"
+	(global_label "M1MBS19*"
 		(shape input)
 		(at 481.33 303.53 0)
 		(fields_autoplaced yes)
@@ -32884,7 +32884,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS05*"
+	(global_label "M1EBS05*"
 		(shape input)
 		(at 481.33 158.75 0)
 		(fields_autoplaced yes)
@@ -33412,7 +33412,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS27*"
+	(global_label "M1MBS27*"
 		(shape input)
 		(at 481.33 356.87 0)
 		(fields_autoplaced yes)
@@ -33830,7 +33830,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS22*"
+	(global_label "M1MBS22*"
 		(shape input)
 		(at 481.33 344.17 0)
 		(fields_autoplaced yes)
@@ -35612,7 +35612,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS16*"
+	(global_label "M1MBS16*"
 		(shape input)
 		(at 481.33 295.91 0)
 		(fields_autoplaced yes)
@@ -38142,7 +38142,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS26*"
+	(global_label "M1MBS26*"
 		(shape input)
 		(at 481.33 354.33 0)
 		(fields_autoplaced yes)
@@ -38692,7 +38692,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS02*"
+	(global_label "M1MBS02*"
 		(shape input)
 		(at 481.33 199.39 0)
 		(fields_autoplaced yes)
@@ -39110,7 +39110,7 @@
 			)
 		)
 	)
-	(global_label "PLN13*"
+	(global_label "PNL13*"
 		(shape input)
 		(at 562.61 146.05 0)
 		(fields_autoplaced yes)
@@ -39352,7 +39352,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS05*"
+	(global_label "M1MBS05*"
 		(shape input)
 		(at 481.33 207.01 0)
 		(fields_autoplaced yes)
@@ -40540,7 +40540,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS18*"
+	(global_label "M1MBS18*"
 		(shape input)
 		(at 481.33 300.99 0)
 		(fields_autoplaced yes)
@@ -40738,7 +40738,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS00*"
+	(global_label "M1MBS00*"
 		(shape input)
 		(at 481.33 194.31 0)
 		(fields_autoplaced yes)
@@ -42014,7 +42014,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS15*"
+	(global_label "M1MBS15*"
 		(shape input)
 		(at 481.33 293.37 0)
 		(fields_autoplaced yes)
@@ -44984,7 +44984,7 @@
 			)
 		)
 	)
-	(global_label "PLN08*"
+	(global_label "PNL08*"
 		(shape input)
 		(at 549.91 140.97 180)
 		(fields_autoplaced yes)
@@ -45314,7 +45314,7 @@
 			)
 		)
 	)
-	(global_label "PLN02*"
+	(global_label "PNL02*"
 		(shape input)
 		(at 549.91 113.03 180)
 		(fields_autoplaced yes)
@@ -45732,7 +45732,7 @@
 			)
 		)
 	)
-	(global_label "PLN14*"
+	(global_label "PNL14*"
 		(shape input)
 		(at 549.91 148.59 180)
 		(fields_autoplaced yes)
@@ -46194,7 +46194,7 @@
 			)
 		)
 	)
-	(global_label "PLN15*"
+	(global_label "PNL15*"
 		(shape input)
 		(at 562.61 148.59 0)
 		(fields_autoplaced yes)
@@ -46392,7 +46392,7 @@
 			)
 		)
 	)
-	(global_label "PLN07*"
+	(global_label "PNL07*"
 		(shape input)
 		(at 562.61 118.11 0)
 		(fields_autoplaced yes)
@@ -46964,7 +46964,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS07*"
+	(global_label "M1MBS07*"
 		(shape input)
 		(at 481.33 250.19 0)
 		(fields_autoplaced yes)
@@ -48900,7 +48900,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS20*"
+	(global_label "M1MBS20*"
 		(shape input)
 		(at 481.33 306.07 0)
 		(fields_autoplaced yes)
@@ -50836,7 +50836,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS03*"
+	(global_label "M1EBS03*"
 		(shape input)
 		(at 481.33 153.67 0)
 		(fields_autoplaced yes)
@@ -50858,7 +50858,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS04*"
+	(global_label "M1MBS04*"
 		(shape input)
 		(at 481.33 204.47 0)
 		(fields_autoplaced yes)
@@ -52134,7 +52134,7 @@
 			)
 		)
 	)
-	(global_label "PLN10*"
+	(global_label "PNL10*"
 		(shape input)
 		(at 549.91 143.51 180)
 		(fields_autoplaced yes)
@@ -53036,7 +53036,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS13*"
+	(global_label "M1MBS13*"
 		(shape input)
 		(at 481.33 265.43 0)
 		(fields_autoplaced yes)
@@ -53542,7 +53542,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS25*"
+	(global_label "M1MBS25*"
 		(shape input)
 		(at 481.33 351.79 0)
 		(fields_autoplaced yes)
@@ -57304,7 +57304,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS17*"
+	(global_label "M1MBS17*"
 		(shape input)
 		(at 481.33 298.45 0)
 		(fields_autoplaced yes)
@@ -58162,7 +58162,7 @@
 			)
 		)
 	)
-	(global_label "MIMBS10*"
+	(global_label "M1MBS10*"
 		(shape input)
 		(at 481.33 257.81 0)
 		(fields_autoplaced yes)
@@ -58272,7 +58272,7 @@
 			)
 		)
 	)
-	(global_label "PLN09*"
+	(global_label "PNL09*"
 		(shape input)
 		(at 562.61 140.97 0)
 		(fields_autoplaced yes)
@@ -59372,7 +59372,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS04*"
+	(global_label "M1EBS04*"
 		(shape input)
 		(at 481.33 156.21 0)
 		(fields_autoplaced yes)
@@ -59614,7 +59614,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS10*"
+	(global_label "M1EBS10*"
 		(shape input)
 		(at 481.33 189.23 0)
 		(fields_autoplaced yes)
@@ -60780,7 +60780,7 @@
 			)
 		)
 	)
-	(global_label "MIEBS09*"
+	(global_label "M1EBS09*"
 		(shape input)
 		(at 481.33 168.91 0)
 		(fields_autoplaced yes)
